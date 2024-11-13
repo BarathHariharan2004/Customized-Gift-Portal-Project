@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "a35f",
+      "username": "ahil",
+      "password": "333"
+    },
+    {
+      "id": "665f",
+      "username": "Ashwinram",
+      "password": "ashwin"
+    },
+    {
+      "id": "f430",
+      "username": "barath",
+      "password": "123"
+    },
+    {
+      "id": "860e",
+      "username": "gopal",
+      "password": "asd"
+    },
+    {
+      "id": "d954",
+      "username": "Aditya",
+      "password": "123"
+    },
+    {
+      "id": "764d",
+      "username": "asd",
+      "password": "123"
+    }
+  ],
+  "carts": [
+    {
+      "id": "5",
+      "name": "Personalized Frame",
+      "category": "Custom",
+      "price": 250,
+      "image": "/photo-frame.jpg",
+      "quantity": 1
+    }
+  ]
+}
